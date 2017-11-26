@@ -1,5 +1,5 @@
 # make-package
-A script to create a zip folder containing your project's files.
+A simple script to create a zip folder containing your project's files.
 
 ## Usage
 * Place the make-package script (the Batch or the Bash one, depending on your system) in your project's directory
@@ -14,3 +14,6 @@ A script to create a zip folder containing your project's files.
 * The script will now create a zip containing your project files
 
 You can **customize** how the script works by modifying the variables at the start of the script.
+
+## License
+See LICENSE file.
