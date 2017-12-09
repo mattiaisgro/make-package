@@ -14,6 +14,3 @@ A simple script to create a compressed folder containing your project's files fo
 * The script will now create a zip containing your project files
 
 You can **customize** how the script works by modifying the variables at the start of the script.
-
-## License
-See LICENSE file.
